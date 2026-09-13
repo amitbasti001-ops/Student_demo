@@ -1,4 +1,4 @@
 # Student_demo
 This is my first repository.
 <br>
-Author-Amit 
+Author-Amit(NiT) 
